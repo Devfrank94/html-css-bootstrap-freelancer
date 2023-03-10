@@ -1,4 +1,26 @@
-.debug{
+.test{
   background-color: rgba(8, 103, 237, 0.502);
   border: 1px solid black;
+  height: 50px;
+}
+
+.test2{
+  background-color: rgba(11, 240, 11, 0.406);
+  border: 1px solid black;
+  height: 50px;
+}
+
+.test3{
+  background-color: rgba(237, 149, 8, 0.502);
+  border: 1px solid black;
+  height: 50px;
+}
+
+header {
+  height: 80px;
+}
+
+/* jumbotron */
+.fm-jumbotron {
+  height: 400px;
 }
