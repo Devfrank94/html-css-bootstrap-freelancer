@@ -30,9 +30,9 @@ header {
 }
 
 section{
-  margin-top: 100px;
+  margin-top: 200px;
 }
 
-section.about .container{
+section .about .container{
   height: 250px;
 }
