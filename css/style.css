@@ -36,3 +36,23 @@ section{
 section .about .container{
   height: 250px;
 }
+
+footer .footer-social{
+  margin-top: 250px;
+}
+
+footer section .row,.col{
+  height: 250px;
+}
+
+footer .footer-social{
+  margin-top: 250px;
+}
+
+section .row .col-sm-10{
+  margin-top: 50px;
+}
+
+section .row .col-md-4{
+  margin-top: 50px;
+}
