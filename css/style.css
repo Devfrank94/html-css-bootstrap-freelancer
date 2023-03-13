@@ -22,13 +22,40 @@ header {
 
 /* jumbotron */
 .fm-jumbotron {
-  height: 400px;
   color: white;
-  
+  background-color: #31bc9c;
 }
 
-.portfolio{
-  margin-top: 50px;
+.fm-jumbotron img{
+  width: 200px;
+  margin-bottom: 15px;
+}
+
+.fm_color{
+  color: white;
+}
+
+.fmbg_color{
+  background-color: white;
+}
+
+.fm_width{
+  margin: 0 5px;
+  height: 5px;
+  width: 150px;
+  display: inline-block;
+}
+
+.fm_inline{
+  display: inline-block;
+}
+
+.fmbg_colorb{
+  background-color: black;
+}
+
+.fm_fontsize{
+  font-size: 1rem;
 }
 
 /* section{
