@@ -17,19 +17,21 @@
 }
 
 header {
-  height: 80px;
+  background-color: #2C3E50;
 }
 
 /* jumbotron */
 .fm-jumbotron {
   height: 400px;
+  color: white;
+  
 }
 
 .portfolio{
-  margin-top: 450px;
+  margin-top: 50px;
 }
 
-section{
+/* section{
   margin-top: 200px;
 }
 
@@ -55,4 +57,4 @@ section .row .col-sm-10{
 
 section .row .col-md-4{
   margin-top: 50px;
-}
+} */
