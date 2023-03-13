@@ -107,3 +107,23 @@ border-bottom: 1px solid lightgrey;
   background-color: #31bc9c;
   border: none;
 }
+
+footer{
+  color: white;
+}
+
+.footer-top{
+  background-color: #3A546D;
+}
+
+.footer-bottom{
+  background-color: #2C3E50;
+}
+
+footer .fm_color{
+  color: #31bc9c;
+}
+
+.fa-brands{
+  color: white;
+}
