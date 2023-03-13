@@ -26,11 +26,13 @@ header {
   background-color: #31bc9c;
 }
 
+/* style img */
 .fm-jumbotron img{
   width: 200px;
   margin-bottom: 15px;
 }
 
+/* style star and line in jumbotron */
 .fm_color{
   color: white;
 }
@@ -58,10 +60,26 @@ header {
   font-size: 1rem;
 }
 
-/* section{
-  margin-top: 200px;
+.fm_height{
+  height: 100%;
+  width: 100%;
+  cursor: pointer;
+  font-size: 100px;
+  display: none;
 }
 
+.fm_position_absolute{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.fm_display:hover .fm_height{
+  display: block;
+}
+
+
+/*
 section .about .container{
   height: 250px;
 }
