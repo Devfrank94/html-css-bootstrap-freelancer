@@ -60,7 +60,7 @@ header {
 }
 
 .fmbg_colorb{
-  background-color: black;
+  background-color: rgb(58, 58, 58);
 }
 
 .fm_fontsize{
@@ -90,3 +90,20 @@ header {
   color: white;
 }
 
+/* Style form */
+.fm-form input,
+.fm-form textarea {
+border: none;
+border-radius: 0px;
+border-bottom: 1px solid lightgrey;
+}
+
+.fm-form input::placeholder,
+.fm-form textarea::placeholder {
+  color: rgb(58, 58, 58);
+}
+
+.fm-form button {
+  background-color: #31bc9c;
+  border: none;
+}
